@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 - 🎓 B.Tech in Computer Science & Engineering (MBITS, 2020-2023)
-- 👩‍💻 Project Assistant at AI-IoT Lab, ASIET (MeitY Funded)
+- 👩‍💻 Currently working as **Project Assistant** AI-IoT research projects at ASIET, funded by MeitY.
 - 🧠 Passionate about AI-driven IoT systems and real-time data processing
 - 🌱 Currently exploring cloud computing, MLOps, and DevOps for AI
 - 📊 Experienced in designing scalable backend architectures
