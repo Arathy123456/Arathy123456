@@ -72,14 +72,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arathysurendran&theme=tokyonight" alt="Arathy's streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathysurendran&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arathysurendran&theme=nord&row=1" alt="GitHub Trophies" />
-</div>
 
 ## 💼 Experience
 - **Project Assistant, AI-IoT Lab - ASIET** (Aug 2024 - Present)
