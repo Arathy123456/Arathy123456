@@ -124,10 +124,7 @@
 - Inspirisys Solutions: Web application development in .NET
 - Udemy: Flutter and Dart
 
-## 🏆 Achievements
-- Active participation in NCC activities
-- Performer in various music and dance events
-- Certification in Scout and Guide activities
+
 
 ## 📈 GitHub Activity Graph
 <div align="center">
@@ -139,10 +136,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
 
 ---
 
