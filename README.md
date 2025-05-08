@@ -66,12 +66,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arathysurendran&show_icons=true&theme=tokyonight" alt="Arathy's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arathysurendran&theme=tokyonight" alt="Arathy's streak" />
-</div>
-
 
 
 ## 💼 Experience
